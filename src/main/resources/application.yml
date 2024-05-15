@@ -1,0 +1,10 @@
+cloud:
+  aws:
+    credentials:
+      accessKey: AKIA253Y5KG6XY2CUGYH
+      secretKey: h2yxp75pC5J0PHwrAX8L8hQhPIvj5o4XIwSrPsuK
+    region:
+      static: us-east-1  # Change to your region
+    s3:
+      bucket:
+        name: dailyduploads
